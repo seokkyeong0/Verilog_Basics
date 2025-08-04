@@ -1,0 +1,5 @@
+Vivado Simulator 2020.2
+Time resolution is 1 ps
+==== FIFO Test Start ====
+==== FIFO Test Finished ====
+$finish called at time : 310 ns : File "D:/Working/FPGA_Harman_25_2_1/fifo/fifo.srcs/sim_1/new/tb_fifo.v" Line 122
