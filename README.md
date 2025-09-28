@@ -1,11 +1,7 @@
-# 📘 Verilog Basic Modules
-
+# Verilog Basic Modules
 정리된 Verilog 기본 모듈 리스트입니다. 프로젝트나 학습 시 참고하세요.
 
----
-
-## 🔢 Module List (진행 상황 체크)
-
+## Module List (진행 상황 체크)
 - [ ] 1. Half Adder
 - [ ] 2. Full Adder
 - [ ] 3. Half Subtractor
