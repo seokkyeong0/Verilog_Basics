@@ -29,6 +29,6 @@ Verilog로 작성한 디지털 회로의 기본 모듈 리스트입니다. 프�
 - [ ] 25. Synchronous Counter
 - [ ] 26. Mealy Sequence Detector
 - [ ] 27. Moore Sequence Detector
-- [ ] 28. Synchronous FIFO
+- [x] 28. Synchronous FIFO
 - [ ] 29. Asynchronous FIFO
-- [ ] 30. UART
+- [x] 30. UART
