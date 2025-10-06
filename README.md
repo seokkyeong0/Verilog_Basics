@@ -25,7 +25,7 @@ Verilog로 작성한 디지털 회로의 기본 모듈 리스트입니다. 프�
 - [ ] 21. JK Flip Flop
 - [ ] 22. T Flip Flop
 - [ ] 23. Universal Shift Register
-- [ ] 24. Linear Feedback Shift Register (LFSR)
+- [x] 24. Linear Feedback Shift Register (LFSR)
 - [ ] 25. Asynchronous Counter
 - [ ] 26. Synchronous Counter
 - [ ] 27. Mealy Sequence Detector
